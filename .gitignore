@@ -2,6 +2,15 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Project-specific
+agent_knowledge/
 
 # C extensions
 *.so
